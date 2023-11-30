@@ -1,0 +1,9 @@
+"C:\Users\denis\AppData\Local\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=C:/Users/denis/AppData/Local/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\denis\AppData\Local\JetBrains\CLion Projekts\color picker" -B "C:\Users\denis\AppData\Local\JetBrains\CLion Projekts\color picker\cmake-build-release"
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: vc16
+-- OpenCV STATIC: OFF
+-- Found OpenCV 4.8.1 in C:/tools/opencv/build/x64/vc16/lib
+-- You might need to add C:\tools\opencv\build\x64\vc16\bin to your PATH to be able to run your applications.
+-- Configuring done (0.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/denis/AppData/Local/JetBrains/CLion Projekts/color picker/cmake-build-release

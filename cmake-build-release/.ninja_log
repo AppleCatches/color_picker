@@ -1,0 +1,8 @@
+# ninja log v5
+3472	3862	7229166965146672	color_picker.exe	e0e25d6a613e6bdb
+4	3950	7229159989823425	CMakeFiles/color_picker.dir/main.cpp.obj	cc6249a2a9374249
+19	3989	7229159990234640	CMakeFiles/color_picker.dir/rec_selection.cpp.obj	50939025be8eae79
+3	3470	7229166961275914	CMakeFiles/color_picker.dir/color_replacer.cpp.obj	750aaba63fdedf09
+13	660	7229916366166580	build.ninja	5ded3743227101d8
+13	2091	7229916413929988	CMakeFiles/color_picker.dir/color_replacer.cpp.obj	750aaba63fdedf09
+2092	2365	7229916416648467	color_picker.exe	e0e25d6a613e6bdb

@@ -1,0 +1,3 @@
+C:/Users/denis/AppData/Local/JetBrains/CLion Projekts/color picker/cmake-build-debug/CMakeFiles/color_picker.dir
+C:/Users/denis/AppData/Local/JetBrains/CLion Projekts/color picker/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/denis/AppData/Local/JetBrains/CLion Projekts/color picker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
