@@ -15,6 +15,7 @@ void ColorReplacer::run() {
         cv::imshow("Image Viewer", image);
 
         int key = cv::waitKey(0);
+
         if (key == 32) {
             replaceColor();
             replaceWithStoredPixels();  // Call the replaceWithStoredPixels function
@@ -105,12 +106,10 @@ void ColorReplacer::onMouse(int event, int x, int y, [[maybe_unused]] int flags,
             // (x, y) coordinates
             std::cout << "Right mouse clicked at (" << x << ", " << y << ") " << std::endl;
 
-
             if (!colorReplacer->selection.isSelected()) {
-                auto clickedColor = colorReplacer->image.at<cv::Vec3b>(y, x);
+                auto clickedColor = colorReplacer->image.at<cv::Vec3b>(y,x);
 
                 // Extract individual color components
-
                 int red = clickedColor[2];
                 int green = clickedColor[1];
                 int blue = clickedColor[0];
